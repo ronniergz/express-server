@@ -1,0 +1,15 @@
+.button {
+  height: 2rem;
+  margin: 1rem;
+}
+
+#message {
+  width: 50vw;
+  height: 4rem;
+  display: block;
+  resize: none;
+}
+
+.response {
+  height: 3rem;
+}
